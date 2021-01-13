@@ -1,2 +1,5 @@
-# Demo_API_Authen_Python
-Demo API Authentication (Basic, Token, API Key) using Python
+# API_Flask
+Demo Authenticate API
+
+# Install requirements
+pip install -r requirements.txt
